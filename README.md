@@ -1,1 +1,1 @@
-# Numerical-Correspondence-Between-FLRW-Geodesics-in-Causal-Sets-and-in-the-Continuum
+# Numerical Correspondence Between (1+1) FLRW Geodesics in Causal Sets & the Continuum
