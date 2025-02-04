@@ -23,7 +23,7 @@ if TYPE_CHECKING:
     from .Class_Objects import *
 
 import matplotlib.pyplot as plt #Grafical library
-plt.style.use("matplotlib_style.mplstyle") #Style of ploting (LaTex)
+plt.style.use("FLRW_CausetGeodes/matplotlib_style.mplstyle") #Style of ploting (LaTex)
 
 
 
@@ -47,7 +47,7 @@ def PrintCauset(Causet: set=set(), directory: str = None) -> None:
     X=[p[1] for p in Causet]
     Y=[p[0] for p in Causet]
     #The points are drawn in a scatterplot
-    plt.scatter(X,Y, s=0.25)
+    plt.scatter(X,Y, s=0.5, c='black')
 
     #Axis labeling and format
     plt.axis('equal')
