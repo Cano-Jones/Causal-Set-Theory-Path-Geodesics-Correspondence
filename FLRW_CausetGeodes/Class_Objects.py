@@ -191,11 +191,11 @@ class CausetSimulation():
         """
         PrintCauset(self.Causet, directory=directory)
     
-    def PrintHaseDiagram(self, directory: str = None)  -> None: #Add save image in directory
+    def PrintHasseDiagram(self, directory: str = None)  -> None: #Add save image in directory
         """
-        PrintHaseDiagram method
+        PrintHasseDiagram method
 
-        This method prints the Hase Diagram of the Causet and saves it on a given directory
+        This method prints the Hasse Diagram of the Causet and saves it on a given directory
         """
         PrintHaseDiagram(self.Links, directory=directory)
     
