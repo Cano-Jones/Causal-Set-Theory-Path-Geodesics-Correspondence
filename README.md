@@ -15,6 +15,10 @@ $$
     <img src="Images/Causet_&_Hasse_Minkowski.jpg" alt>
     <em>Causet and corresponding Hasse Diagram on a Minkowskian background ($a(t)=1$ and $\kappa=0$).  </em>
 </p>
+<div align="center">
+    <img src="Images/Causet_&_Hasse_Minkowski.jpg"/>
+    <p>Causet and corresponding Hasse Diagram on a Minkowskian background \( a(t)=1\,,\;\;\kappa=0 \)</p>
+</div>
 <p>
     <img src="Images/Causet_&_Hasse_Hyperbolic.jpg" alt>
     <em>Causet and corresponding Hasse Diagram on an Hyperbolic background ($a(t)=1$ and $\kappa=-1$).</em>
