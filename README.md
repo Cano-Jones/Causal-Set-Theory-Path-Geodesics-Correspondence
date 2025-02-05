@@ -18,5 +18,5 @@ $$
 
 <div align="center">
     <img src="Images/Correspondence_Spherical.jpg"/>
-    <p>Continuum (<span style="color: blue;">Blue</span> ) and Discrete (Red) geodesics in an Spherical background (a(t)=1 & κ=1).</p>
+    <p>Continuum (Blue) and Discrete (Red) geodesics in an Spherical background (a(t)=1 & κ=1).</p>
 </div>
