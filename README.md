@@ -17,5 +17,5 @@ $$
 </div>
 <div align="center">
     <img src="Images/Causet_&_Hasse_Hyperbolic.jpg"/>
-    <p>Causet and corresponding Hasse Diagram on a Minkowskian background (a(t)=1 & κ=-1).</p>
+    <p>Causet and corresponding Hasse Diagram on a Hyperbolic background (a(t)=1 & κ=-1).</p>
 </div>
