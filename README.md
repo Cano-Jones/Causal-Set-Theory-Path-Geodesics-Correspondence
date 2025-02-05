@@ -11,15 +11,11 @@ $$
 \mathcal{L}\propto \frac{1}{2}\left[a^2(t)\frac{\dot{r}^2}{1-\kappa r^2}-c^2\dot{t}^2\right]
 $$
 
-<p>
-    <img src="Images/Causet_&_Hasse_Minkowski.jpg" alt>
-    <em>Causet and corresponding Hasse Diagram on a Minkowskian background ($a(t)=1$ and $\kappa=0$).  </em>
-</p>
 <div align="center">
     <img src="Images/Causet_&_Hasse_Minkowski.jpg"/>
-    <p>Causet and corresponding Hasse Diagram on a Minkowskian background \( a(t)=1\,,\;\;\kappa=0 \)</p>
+    <p>Causet and corresponding Hasse Diagram on a Minkowskian background (a(t)=1 & κ=0).</p>
 </div>
-<p>
-    <img src="Images/Causet_&_Hasse_Hyperbolic.jpg" alt>
-    <em>Causet and corresponding Hasse Diagram on an Hyperbolic background ($a(t)=1$ and $\kappa=-1$).</em>
-</p>
+<div align="center">
+    <img src="Images/Causet_&_Hasse_Hyperbolic.jpg"/>
+    <p>Causet and corresponding Hasse Diagram on a Minkowskian background (a(t)=1 & κ=-1).</p>
+</div>
