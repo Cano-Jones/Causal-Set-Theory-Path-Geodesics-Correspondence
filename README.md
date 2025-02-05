@@ -12,6 +12,10 @@ $$
 $$
 
 <p>
-    <img src="Images/Causet_&_Hasse.jpg" alt>
-    <em>image_caption</em>
+    <img src="Images/Causet_&_Hasse_Minkowski.jpg" alt>
+    <em>Causet and corresponding Hasse Diagram on a Minkowskian background.</em>
+</p>
+<p>
+    <img src="Images/Causet_&_Hasse_Hyperbolic.jpg" alt>
+    <em>Causet and corresponding Hasse Diagram on an Hyperbolic background.</em>
 </p>
