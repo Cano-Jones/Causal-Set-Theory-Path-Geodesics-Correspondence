@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Causal-Set-Theory-Geodesics
+message: GitHub repository for FLRW_CausetGeodes library
+type: software
+authors:
+  - given-names: Alejandro
+    family-names: Cano Jones
+    email: alexcanojones@gmail.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Cano-Jones/Causal-Set-Theory-Geodesics
+    description: URL of GitHub repository
+repository-code: >-
+  https://github.com/Cano-Jones/Causal-Set-Theory-Geodesics/tree/main/FLRW_CausetGeodes
+url: 'https://github.com/'
+keywords:
+  - Causal Set Theory
+  - Quantum Gravity
+  - Quantum Cosmology
+  - Numerical
+license: CC-BY-NC-ND-4.0
