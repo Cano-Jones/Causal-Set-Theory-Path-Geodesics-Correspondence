@@ -8,7 +8,7 @@ MetricTensor(kappa, a1)
 CausetSimulation(Metric, TimeRange, SpaceRange, PointNumber, Divisions)
 ContinuumSimulation(Metric, source, SpacialVelocity, tau_span, g_type)
 ```
-[examples](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/Cano-Jones/Causal-Set-Theory-Path-Geodesics-Correspondence/blob/main/Numerical_Correspondence_Between_FLRW_Geodesics_in_Causal_Sets_and_the_Continuum.pdf)](https://github.com/Cano-Jones/Causal-Set-Theory-Path-Geodesics-Correspondence/tree/main/Example_Scripts) are provided
+Some [example scripts](https://github.com/Cano-Jones/Causal-Set-Theory-Path-Geodesics-Correspondence/tree/main/Example_Scripts) are provided, which returned the following results.
 
 
 <div align="center">
